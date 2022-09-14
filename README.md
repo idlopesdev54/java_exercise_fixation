@@ -1,6 +1,6 @@
 # java_exercise_fixation
 
-Exercicicios de fixação disponibilizado pelo professor Dr. Nelio Alves em seu curso da UDEMY, otimos para iniciantes treinar.
+Exercicicios de fixação disponibilizado pelo professor Dr. Nelio Alves em seu curso da UDEMY, otimos para iniciantes.
 
 Os arquivos em pdf com os enunciados se encontram em seus respectivos diretorios.
 
